@@ -47,7 +47,6 @@ router.post(
     if (typeof age !== "number" && age < 0) {
       return res.status(400).json({ error: "Age must be a positive number" });
     }
-
     // Check if user with that username already existed
 
     db.query(
