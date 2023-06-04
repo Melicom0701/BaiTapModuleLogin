@@ -10,7 +10,7 @@ Gửi a Thụy
 <br>
 #4 : [put] users/:id
 <br>
-	 [delete] users/id
+<tab>  [delete] users/id
 	 <br>
 #5 : [get] users/search
 <br>
